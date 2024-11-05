@@ -1,0 +1,9 @@
+C:\Net_2024\WorkOut_Review\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Net_2024\WorkOut_Review\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Net_2024\WorkOut_Review\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Net_2024\WorkOut_Review\Domain\obj\Debug\netstandard2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net_2024\WorkOut_Review\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Net_2024\WorkOut_Review\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Net_2024\WorkOut_Review\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Net_2024\WorkOut_Review\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Net_2024\WorkOut_Review\Domain\obj\Debug\netstandard2.1\Domain.pdb
